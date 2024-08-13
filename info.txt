@@ -1,0 +1,6 @@
+
+
+API: https://www.themealdb.com/api/json/v1/1/search.php?s=' + mealName
+
+About using axios
+https://blog.logrocket.com/using-axios-with-react-native-manage-api-requests/
