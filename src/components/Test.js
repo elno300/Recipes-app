@@ -1,6 +1,6 @@
 import { Button } from "react-native";
 
-export default function Test() {
+export default function TestScreen() {
   // const [name, setName] = useState("Text");
 
   return (

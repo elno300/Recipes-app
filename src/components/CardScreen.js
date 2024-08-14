@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, ScrollView, Image } from "react-native";
 
-export default function Card() {
+export default function CardScreen() {
   return (
     <ScrollView>
       <View style={styles.container}>
